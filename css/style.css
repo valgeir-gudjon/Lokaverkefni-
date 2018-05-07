@@ -1,0 +1,130 @@
+.body{
+  background-color: #efefef;
+  
+}
+.header {
+
+  background-color: lightblue;
+  text-align: center;
+  padding: 3px;
+  font-size: 38px;
+  color:  #00004d;
+  
+}
+.underheader {
+    background-color: lightblue;
+  text-align: center;
+  padding: 4px;
+  font-size: 30px;
+  color:  #00004d;
+  font-family: 'Roboto Slab', serif;
+}
+.underheader2 {
+    background-color: lightblue;
+  text-align: center;
+  padding: 5px;
+  font-size: 20px;
+  color:  #00004d; 
+}
+.fotur {
+  /* position: absolute;*/
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 15px;
+  background-color: lightblue;
+  text-align: center;
+  color: #00004d;
+  }
+.uppl{
+  text-align: center;
+ color: #00004d; 
+  padding: 10px;
+  font-family: 'Playfair Display', serif;
+}
+
+.leita{
+  text-align: center;
+  padding: 15px;
+  margin-left: 5px;
+  font-size: 20px;
+  
+
+
+}
+#listi{
+  list-style-type: none;
+  color: #330a00;
+  padding:0; 
+  margin:0;
+}
+.kassi{
+   text-align: center;
+  padding: 20px;
+  color: #00004d;
+  
+}
+.takki{
+  color: #FF1493;
+}
+/* CSS á öllum útkomunum eða listanum */
+#skrnumer{
+  padding: 10px;
+  color: grey;
+}
+#fastnumer{
+  color: grey;
+  padding: 10px;
+}
+
+#litur{
+  color: grey;
+  padding: 10px;
+}
+#verknumer{
+  color: grey;
+  padding: 10px;
+}
+#tegund{
+  color: grey;
+  padding: 10px;
+}
+#undirtegund{
+  color: grey;
+  padding: 10px;
+}
+#litur{
+  color: grey;
+  padding: 10px;
+}
+#argerd{
+  color: grey;
+  padding: 10px;
+}
+#stada{
+  color: grey;
+  padding: 10px;
+}
+#skodun{
+  color: grey;
+  padding: 10px;
+}
+#mengun{
+  color: grey;
+  padding: 10px;
+}
+#kg{
+  color: grey;
+  padding: 10px;
+  margin:nei-nei-ekkert;
+}
+.tercel{
+  width: 50%;
+  height:50%;
+  float:left;
+}
+.renult{
+   width: 50%;
+  height:50%;
+  float: right:
+}
